@@ -17,8 +17,7 @@ Use your knowledge of object-oriented programming, two-dimensional (2D) arrays, 
 
 ## UML Diagram
 
-![UML Diagram for my project]((https://github.com/user-attachments/assets/c805a90f-2928-4d5a-b28a-7ca7d8ce716a)
-)
+![UML Diagram for my project](https://github.com/user-attachments/assets/f807365d-7814-4654-9530-1dc6dc655af5)
 
 ## Video
 
